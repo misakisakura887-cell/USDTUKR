@@ -1,0 +1,42 @@
+{
+  "name": "usdtukr",
+  "version": "1.0.0",
+  "description": "USDTUKR WEB3 ETF",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "type-check": "tsc --noEmit"
+  },
+  "keywords": [
+    "web3",
+    "etf",
+    "ukr",
+    "defi",
+    "trading"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "@rainbow-me/rainbowkit": "^2.2.8",
+    "@tailwindcss/postcss": "^4.1.13",
+    "@tanstack/react-query": "^5.89.0",
+    "@types/node": "^24.5.2",
+    "@types/react": "^19.1.13",
+    "@types/react-dom": "^19.1.9",
+    "autoprefixer": "^10.4.21",
+    "eslint": "^9.36.0",
+    "eslint-config-next": "^15.5.3",
+    "lightweight-charts": "^5.0.8",
+    "next": "^15.5.3",
+    "postcss": "^8.5.6",
+    "react": "^19.1.1",
+    "react-dom": "^19.1.1",
+    "tailwindcss": "^4.1.13",
+    "typescript": "^5.9.2",
+    "viem": "^2.37.7",
+    "wagmi": "^2.17.1"
+  }
+}
