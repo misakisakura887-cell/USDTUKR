@@ -1,11 +1,9 @@
 {
   "name": "usdtukr",
   "version": "1.0.0",
-  "scripts": {
-  "dev": "next dev",
-  "build": "next build",
-  "start": "next start",
-  "lint": "next lint",
-  "type-check": "tsc --noEmit"
-},
+  "dependencies": {
+    "next": "^15.5.3",
+    "react": "^19.1.1",
+    "react-dom": "^19.1.1"
+  }
 }
